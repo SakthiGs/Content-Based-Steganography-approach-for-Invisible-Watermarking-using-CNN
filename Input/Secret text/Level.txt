@@ -1,0 +1,13 @@
+ Level of Autonomy - Autonomous Cars
+ Level Zero -
+ There are no autonomous features.
+ Level One -
+ These cars can handle one task at a time, like automatic braking.
+ Level Two -
+ These cars would have at least two automated functions.
+ Level Third -
+ These cars handle dynamic driving tasks but might still need intervention.
+ Level Four -
+ These cars are officially driverless in certain environments.
+ Level Five -
+ These cars can operate entirely on their without any driver presence.
