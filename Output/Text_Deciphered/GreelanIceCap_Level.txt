@@ -1,0 +1,20 @@
+ Level of Autonomy - Autonomous Cars
+ Level Zero -
+ There - a - no autonomousfeetures_
+ Level One -
+ These cars can handle one task at atime,like automatic
+ -
+braking -
+ -
+ Level Two -
+ These carswould have at least two automatedfunctions -
+ Level Third -
+ These cars handle dynamic driving tasksbut might stil
+ -
+lneed intervention -
+ LevelFour -
+ These cars are officially driverless in certain enviro
+nments -
+ LevelFive -
+ These cars can operate entirely on treir without any dr
+iver presence -

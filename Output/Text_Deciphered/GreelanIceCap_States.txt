@@ -1,0 +1,9 @@
+States in the India
+AndhraPradesh , ArunachalPradesh, Assam,Bihar,
+Chattisg -a - ,Goa,Gujarat,Haryana,
+HimachalPrate,h,Jharkhand,Karnataka,Kerala,
+MadhyaPradesh,Maharashtra,Meghalaym.,
+ -
+Mizoram,Nagaland,Odishr,Punjab,Rajasthan ,Sikkim,
+DamilNadu ,Telangana,Tripura,
+UttarPradesh,UttaraKhand,WestBengal
