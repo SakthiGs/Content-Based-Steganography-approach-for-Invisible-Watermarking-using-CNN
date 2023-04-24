@@ -1,4 +1,4 @@
-# MTech_MiniProject
+# MTech_CBS
 
 This is where steganography comes into play. Steganography is the art of hiding data behind other ordinary and often publicly available “host data”. In this work, we explore text-hiding behind images.
 For an added layer of security, we explore the options of an alternative text.Here, we selected the dancing men text to encode our hidden text. We first generate a dancing men image of the
